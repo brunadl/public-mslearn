@@ -7,4 +7,4 @@ Neste módulo, você: <br>
   • Configurará seu ambiente de desenvolvedor <br>
   • Criará os arquivos para um site <br>
   • Escreverá código HTML, CSS e JavaScript <br>
-  • Começará a controlar alterações ao seu projeto <br>
+  • Começará a controlar alterações ao seu projeto
